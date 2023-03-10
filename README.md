@@ -1,4 +1,4 @@
-# Hi there, I'm TexasFarmer702
+# 👋 Hi there, I'm 🚜 TexasFarmer702
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/cIj7H4isrlXj94QzPR/giphy-downsized-large.gif" />
 
