@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm 🚜 TexasFarmer702
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/9xxcrkvM3wCNCCtDpc/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/b5ujszyZhfZS0/giphy.gif" />
 
 ## Community Manager / Full Stack Developer 
 
